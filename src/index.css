@@ -1,0 +1,59 @@
+.box-blue{
+    position: absolute;
+    top: 25px ;
+    left: 200px;
+    background:none;
+    z-index: 200;
+  
+}
+.box-red{
+    display: flex;
+    height: 80px;
+    width: 209px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    justify-content:flex-start;
+   align-items: flex-start;
+    box-shadow: 0px 0px 10px 0px #00000026;
+   position: relative;
+   top: -148px;
+   left: -650px;
+    text-align: center;
+    cursor: copy;
+
+}
+.box-red h1{
+    font-family: Gotham Pro;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: right;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    padding: 30px;
+    
+}
+.box-hider{
+    display: flex;
+}
+.box-circle{
+    height: 25px;
+    width: 25px;
+    left: 170px;
+    top: 26px;
+    border-radius: 100%;
+    border: 3px solid #FF0505C2;
+  position: absolute;
+    
+
+}
+.hJyHUj{
+    color: red;
+}
+span{
+    color: red;
+    font-size: 50px;
+}
